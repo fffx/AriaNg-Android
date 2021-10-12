@@ -10,6 +10,7 @@ import android.webkit.WebView
 
 /*
  TODO
+  1. Change language according system language
   1. allow user update ariaNg and auto update? https://developer.android.com/training/data-storage
   2. inject css/js to suit mobile?
 */
